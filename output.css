@@ -702,6 +702,10 @@ video {
   padding-top: 0.5rem;
 }
 
+.pt-3 {
+  padding-top: 0.75rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -879,6 +883,18 @@ video {
   .lg\:py-4 {
     padding-top: 1rem;
     padding-bottom: 1rem;
+  }
+
+  .lg\:pt-5 {
+    padding-top: 1.25rem;
+  }
+
+  .lg\:pt-6 {
+    padding-top: 1.5rem;
+  }
+
+  .lg\:pt-4 {
+    padding-top: 1rem;
   }
 
   .lg\:text-4xl {
